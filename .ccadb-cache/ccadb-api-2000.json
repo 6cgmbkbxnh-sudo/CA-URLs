@@ -1,0 +1,1028 @@
+[
+  {
+    "CertificateInformation": {
+      "CAOwner": "An Post",
+      "CertificateName": "Post.Trust Root CA",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "An Post",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010503",
+      "ParentCCADBUniqueID": "A010208",
+      "Country": "Ireland"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "07453D53793BF41819A5251C69F88E2BB344B59CA828B5A543781599EAF3D602",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-08-22",
+      "ValidTo": "2010-08-20",
+      "AuthorityKeyIdentifier": "QRqM40897/E=",
+      "SubjectKeyIdentifier": "QRqM40897/E=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "DigiCert",
+      "CertificateName": "Baltimore CyberTrust Root",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "DigiCert",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000088",
+      "ParentCCADBUniqueID": "A000021",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Removed",
+      "ChromeStatus": "Removed",
+      "MicrosoftStatus": "Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Removed; Microsoft: Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "16AF57A9F676B0AB126095AA5EBADEF22AB31119D644AC95CD4B93DBF3F26AEB",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-05-12",
+      "ValidTo": "2025-05-12",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "5Z1ZMIJHWMys+ghUNoZ7OrUETfA=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "Server Authentication;Client Authentication;Code Signing;Secure Email;Time Stamping",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl3.digicert.com/Omniroot2025.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": true,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Government of Hong Kong (SAR), Hongkong Post, Certizen",
+      "CertificateName": "Hongkong Post Root CA",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Government of Hong Kong (SAR), Hongkong Post, Certizen",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010491",
+      "ParentCCADBUniqueID": "A000030",
+      "Country": "China"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "BCDD8DF4276366D7FF4B688DC81500D8E98252C049C8FF1E8C82F2BAEC9D5C16",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-01-16",
+      "ValidTo": "2010-01-16",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "IdenTrust Services, LLC",
+      "CertificateName": "DST Root CA X3",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "IdenTrust Services, LLC",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000125",
+      "ParentCCADBUniqueID": "A000036",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "0687260331A72403D909F105E69BCF0D32E1BD2493FFC6D9206D11BCD6770739",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-09-30",
+      "ValidTo": "2021-09-30",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "xKexpHsscfrb4UuQdf/EFWCFiRA=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.identrust.com/DSTROOTCAX3CRL.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Korea Information Security Agency (KISA)",
+      "CertificateName": "CertRSA01",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Korea Information Security Agency (KISA)",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010479",
+      "ParentCCADBUniqueID": "A000250",
+      "Country": "Republic of Korea (South Korea)"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "956057517FF3BB35049342288C1C9DCE852DACA652B465E9747253B5F93B1F5E",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-03-02",
+      "ValidTo": "2010-03-03",
+      "AuthorityKeyIdentifier": "/4pGcjNY6EiIIqoXaNoWSAmLNZE=",
+      "SubjectKeyIdentifier": "/4pGcjNY6EiIIqoXaNoWSAmLNZE=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "AddTrust Class 1 CA Root",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000074",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Not Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "8C7209279AC04E275E16D07FD3B775E80154B5968046E31F52DD25766324E9A7",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "lbG08JS2vcfa0REJIb7Br0n9EHs=",
+      "SubjectKeyIdentifier": "lbG08JS2vcfa0REJIb7Br0n9EHs=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "AddTrust External CA Root",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000075",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "AddTrust Public CA Root",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000076",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Not Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "0791CA0749B20782AAD3C7D7BD0CDFC9485835843EB2D7996009CE43AB6C6927",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "gT432JKwH3efXLSrc6rn9jRgL/o=",
+      "SubjectKeyIdentifier": "gT432JKwH3efXLSrc6rn9jRgL/o=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "AddTrust Qualified CA Root",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000077",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Not Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "8095210805DB4BBC355E4428D8FD6EC2CDE3AB5FB97A9942988EB8F4DCD06016",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "OZWLYotcydSAulgPlz8VCEPMmKc=",
+      "SubjectKeyIdentifier": "OZWLYotcydSAulgPlz8VCEPMmKc=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "COMODO Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001616",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "3717F5EADF9A9753AB6CAAD8C6805423FBEC758CC25CA91A2B233D545A17BFE6",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "C1jli8ZMFTekQKkwqSG+RzZaVv8=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.comodoca.com/COMODOCertificationAuthority.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "COMODO ECC Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001618",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "7532CD02809D52C39BE3208F0E4595F87F73EAA55D7B54600649A9CAFEC1FA4E",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "dXGnGUgZvJ2d6kFH35TESHeZ03k=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "COMODO ECC Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001619",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "9573862AC0B4B125168810EA3FD101AE2EB0BB15F61FC0E6DA7A2A38B85A89E8",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "dXGnGUgZvJ2d6kFH35TESHeZ03k=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "COMODO RSA Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001625",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "4F32D5DC00F715250ABCC486511E37F501A899DEB3BF7EA8ADBBD3AEF1C412DA",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "u69+Aj36pvE8hI6t7jiY7NkyMtQ=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "Network Solutions Certificate Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "Network Solutions",
+      "CCADBUniqueID": "A001665",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "C445D7EAA6F236F4CFC23AD1C2F8403BF733AE87E0E6FF5892C926044370FB48",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "ITDJ+wDXTpjah6oq0KcusUAxp0w=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "USERTrust ECC Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001689",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "C2B25BAD6F6ED65216CADAD7420BE9A3C787B7789F4C0222C35A2574BBACE92A",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "OuEJhtTPGcKWdnRJdtzgNcZjY5o=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "USERTrust ECC Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001690",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "5578748AC97944D13CAE572A3794CF3C3B6D3A6B6752FD2A029713B16D8D2659",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "OuEJhtTPGcKWdnRJdtzgNcZjY5o=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "USERTrust RSA Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AddTrust External CA Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001702",
+      "ParentCCADBUniqueID": "A000075",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "1A5174980A294A528A110726D5855650266C48D9883BEA692B67B6D726DA98C5",
+      "ParentSHA256Fingerprint": "687FA451382278FFF0C8B11F8D43D576671C6EB2BCEAB413FB83D965D06D2FF2",
+      "ValidFrom": "2000-05-30",
+      "ValidTo": "2020-05-30",
+      "AuthorityKeyIdentifier": "rb2YejS0Jvf6xCZU7wO94CTLVBo=",
+      "SubjectKeyIdentifier": "U3m/WqorSs9UgOHYm8Cd8rIDZss=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Wells Fargo Bank N.A.",
+      "CertificateName": "Wells Fargo Root Certificate Authority",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Wells Fargo Bank N.A.",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010499",
+      "ParentCCADBUniqueID": "A000065",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "03458B6ABEECC214953D97149AF45391691DE9F9CDCC2647863A3D67C95C243B",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2000-10-11",
+      "ValidTo": "2021-01-14",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  }
+]

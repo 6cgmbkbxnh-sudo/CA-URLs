@@ -1,0 +1,59 @@
+[
+  {
+    "CertificateInformation": {
+      "CAOwner": "Microsoft Corporation",
+      "CertificateName": "Microsoft Authenticode(tm) Root Authority",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Microsoft Corporation",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010518",
+      "ParentCCADBUniqueID": "A002577",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "4898B1749717A594A2030F47C83C272BD14BAE3DCEB2EAE382174EF2EC1C75C9",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "1995-01-01",
+      "ValidTo": "1999-12-31",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  }
+]

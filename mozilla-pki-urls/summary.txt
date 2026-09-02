@@ -1,0 +1,7 @@
+Generated UTC: 2026-09-02T07:31:21.544981+00:00
+Selected CCADB records: 2704
+Unique certificates: 2701
+Unique CRL URLs: 19379
+Unique OCSP URLs: 147
+Unique CA Issuers URLs: 325
+Unique total URLs: 19851

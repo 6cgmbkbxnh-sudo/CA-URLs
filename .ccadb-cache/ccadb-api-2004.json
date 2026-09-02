@@ -1,0 +1,2567 @@
+[
+  {
+    "CertificateInformation": {
+      "CAOwner": "A-Trust",
+      "CertificateName": "A-Trust-nQual-01",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "A-Trust",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010483",
+      "ParentCCADBUniqueID": "A000005",
+      "Country": "Austria"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "7B1F8D8EFF5D7349FEDB7EAE89C29AACC41704F1503AE3C8C2EBA10225D0F568",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-30",
+      "ValidTo": "2014-11-30",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "TlnOxwIyhzA=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "A-Trust",
+      "CertificateName": "A-Trust-Qual-01",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "A-Trust",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010482",
+      "ParentCCADBUniqueID": "A000005",
+      "Country": "Austria"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "E8A2F441657678975F2B97D775719C7D49D92234554540EC14D92E16FE27D2CB",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-30",
+      "ValidTo": "2014-11-30",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "SzyMHYXpb60=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "A-Trust",
+      "CertificateName": "A-Trust-Qual-02",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "A-Trust",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010484",
+      "ParentCCADBUniqueID": "A000005",
+      "Country": "Austria"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "75C9D4361CB96E993ABD9620CF043BE9407A4633F202F0F4C0E17851CC6089CD",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-12-02",
+      "ValidTo": "2014-12-02",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "Qj0rJKbBRc4=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "AC Camerfirma, S.A.",
+      "CertificateName": "AC Camerfirma Certificados Camerales",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "Chambers of Commerce Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A003791",
+      "ParentCCADBUniqueID": "A000103",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "C7D84381E11F7C5746771AF5B050DC51FC6FDAD6F6F35BB53A3DE913822EA09E",
+      "ParentSHA256Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
+      "ValidFrom": "2004-02-09",
+      "ValidTo": "2034-02-09",
+      "AuthorityKeyIdentifier": "45T1sU3p26EpW1eLTXYGduHRooo=",
+      "SubjectKeyIdentifier": "th9OnRxokS43cmDhRo9apSoxMbk=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.camerfirma.com/ac_camerfirma_cc.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "AC Camerfirma, S.A.",
+      "CertificateName": "CA Camerfirma Codesign",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "Chambers of Commerce Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A003856",
+      "ParentCCADBUniqueID": "A000103",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "DF8307254EE1E3D1379007E2A230D671D952DEFF2409AF202ADCDF8DC4A48B08",
+      "ParentSHA256Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
+      "ValidFrom": "2004-12-29",
+      "ValidTo": "2034-12-30",
+      "AuthorityKeyIdentifier": "45T1sU3p26EpW1eLTXYGduHRooo=",
+      "SubjectKeyIdentifier": "aRqUcqDRlv89VirY/itHGBWdsO4=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "AC Camerfirma, S.A.",
+      "CertificateName": "CA Camerfirma Express Corporate Server",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "Chambers of Commerce Root",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A003857",
+      "ParentCCADBUniqueID": "A000103",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "8948D65A91A81B8D8D79D7603B42FBA68A690567F0456488339BF4D0937BDAF4",
+      "ParentSHA256Fingerprint": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
+      "ValidFrom": "2004-04-20",
+      "ValidTo": "2034-04-21",
+      "AuthorityKeyIdentifier": "45T1sU3p26EpW1eLTXYGduHRooo=",
+      "SubjectKeyIdentifier": "DXwoaVKfGK/HTZwuTHIFUlbRt6U=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Agencia Notarial de Certificación (ANCERT)",
+      "CertificateName": "ANCERT Certificados CGN",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Agencia Notarial de Certificación (ANCERT)",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002399",
+      "ParentCCADBUniqueID": "A002554",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "8177D1A82BA501AFDD1E9483AD7DA912EE1E9FCB2A5A061FA3C479FA804CE6BA",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-02-11",
+      "ValidTo": "2024-02-11",
+      "AuthorityKeyIdentifier": "7FefyHYib8w6rlvwLaFiWNGNAsw=",
+      "SubjectKeyIdentifier": "7FefyHYib8w6rlvwLaFiWNGNAsw=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Agencia Notarial de Certificación (ANCERT)",
+      "CertificateName": "ANCERT Certificados Notariales",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Agencia Notarial de Certificación (ANCERT)",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002514",
+      "ParentCCADBUniqueID": "A002554",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "00AB444ABD6BDBA33DA8DE569AC4ECDE326D1BE1A61442D5EEC3975A0C243F04",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-02-11",
+      "ValidTo": "2024-02-11",
+      "AuthorityKeyIdentifier": "hPf6cl6IZGYdKIywd70Map9MTWI=",
+      "SubjectKeyIdentifier": "hPf6cl6IZGYdKIywd70Map9MTWI=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Agencia Notarial de Certificación (ANCERT)",
+      "CertificateName": "ANCERT Corporaciones de Derecho Publico",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Agencia Notarial de Certificación (ANCERT)",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002398",
+      "ParentCCADBUniqueID": "A002554",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "36544D2FCE03C6C72B70EB1A8064264DC1511768C2D8F76A8B9F1F2BBD153B7D",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-02-11",
+      "ValidTo": "2024-02-11",
+      "AuthorityKeyIdentifier": "jEweNwyxn9KsRAs6vgLP9I0tZpU=",
+      "SubjectKeyIdentifier": "jEweNwyxn9KsRAs6vgLP9I0tZpU=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Chunghwa Telecom",
+      "CertificateName": "ePKI Root Certification Authority",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Chunghwa Telecom",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000135",
+      "ParentCCADBUniqueID": "A000015",
+      "Country": "Taiwan, Republic of China"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Included",
+      "ChromeStatus": "Removed",
+      "MicrosoftStatus": "Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "C0A6F4DC63A24BFDCF54EF2A6A082A0A72DE35803E2FF5FF527AE5D87206DFD5",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-12-20",
+      "ValidTo": "2034-12-20",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "Hgz3tmfy4ZImCUXAVTkudz9CSqI=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "Server Authentication;Client Authentication;Code Signing;Secure Email;Time Stamping;IP Security IKE Intermediate",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://eca.hinet.net/repository/CRL_SHA2/CA.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": true,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Cisco",
+      "CertificateName": "Cisco Root CA 2048",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Cisco",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002530",
+      "ParentCCADBUniqueID": "A002565",
+      "Country": "US"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Blocked",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Blocked; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "8327BC8C9D69947B3DE3C27511537267F59C21B9FA7B613FAFBCCD53B7024000",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-05-14",
+      "ValidTo": "2029-05-14",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "J/PIFR5umgIJFq0roIlgX9p7L6o=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "ComSign",
+      "CertificateName": "ComSign Advanced Security CA",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "ComSign",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002470",
+      "ParentCCADBUniqueID": "A000017",
+      "Country": "Israel"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "3CCC3CCFE45496D07B620DBF1328E8A1490018F48633C8A28A995CA60408B0BE",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-03-24",
+      "ValidTo": "2029-03-24",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "6fon5e1LIXBk1nGqfOWCHDDSDXo=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "ComSign",
+      "CertificateName": "ComSign CA",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "ComSign",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000110",
+      "ParentCCADBUniqueID": "A000017",
+      "Country": "Israel"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Removed",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "AE4457B40D9EDA96677B0D3C92D57B5177ABD7AC1037958356D1E094518BE5F2",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-03-24",
+      "ValidTo": "2029-03-19",
+      "AuthorityKeyIdentifier": "SwGbPlYaZTZ2y3uXqpIF7jLnKDE=",
+      "SubjectKeyIdentifier": "SwGbPlYaZTZ2y3uXqpIF7jLnKDE=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "ComSign",
+      "CertificateName": "ComSign Secured CA",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "ComSign",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000111",
+      "ParentCCADBUniqueID": "A000017",
+      "Country": "Israel"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Removed",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "507941C74460A0B47086220D4E9932572AB5D1B5BBCB8980AB1CB17651A844D2",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-03-24",
+      "ValidTo": "2029-03-16",
+      "AuthorityKeyIdentifier": "wUvtcLb3PnwAOwCPxz4ORZ8eXew=",
+      "SubjectKeyIdentifier": "wUvtcLb3PnwAOwCPxz4ORZ8eXew=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "ComSign",
+      "CertificateName": "Corporate CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "ComSign CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000762",
+      "ParentCCADBUniqueID": "A000110",
+      "Country": "Israel"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "2D8B7381CD2F71C8DCAAB6CCD8E4434A115BE44ECC5451ACF40CA9D0FA693521",
+      "ParentSHA256Fingerprint": "AE4457B40D9EDA96677B0D3C92D57B5177ABD7AC1037958356D1E094518BE5F2",
+      "ValidFrom": "2004-12-28",
+      "ValidTo": "2014-12-31",
+      "AuthorityKeyIdentifier": "SwGbPlYaZTZ2y3uXqpIF7jLnKDE=",
+      "SubjectKeyIdentifier": "r/ycTwroUU+wI9+Gke6cwyHM+Jo=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "ComSign",
+      "CertificateName": "Leumi",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "ComSign CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000763",
+      "ParentCCADBUniqueID": "A000110",
+      "Country": "Israel"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Removed; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "41DAEEE0D3F3ECEF708CC4E4A99F6B8F6F57F654306BDE3F294F9F14BB1C7AB6",
+      "ParentSHA256Fingerprint": "AE4457B40D9EDA96677B0D3C92D57B5177ABD7AC1037958356D1E094518BE5F2",
+      "ValidFrom": "2004-03-24",
+      "ValidTo": "2014-03-16",
+      "AuthorityKeyIdentifier": "SwGbPlYaZTZ2y3uXqpIF7jLnKDE=",
+      "SubjectKeyIdentifier": "aqgXkMG3RctsYeUtlAwVLC85WD8=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Consorci Administració Oberta de Catalunya (Consorci AOC, CATCert)",
+      "CertificateName": "EC-PARLAMENT",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "EC-ACC",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000875",
+      "ParentCCADBUniqueID": "A000129",
+      "Country": "Spain"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "44C50AC80EDBE9E552E3C96CE5BD11C837C70F56A33ACABCF18D8D7A9B350E07",
+      "ParentSHA256Fingerprint": "88497F01602F3154246AE28C4D5AEF10F1D87EBB76626F4AE0B7F95BA7968799",
+      "ValidFrom": "2004-06-30",
+      "ValidTo": "2020-06-29",
+      "AuthorityKeyIdentifier": "oMOLRKo3pUW/l4Ba0fF4opvpXY0=",
+      "SubjectKeyIdentifier": "HhOY6sJCWVW23i8+yp/J6ssuLBQ=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "DigiCert",
+      "CertificateName": "GeoTrust Global CA 2",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "DigiCert",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000141",
+      "ParentCCADBUniqueID": "A000021",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "CA2D82A08677072F8AB6764FF035676CFE3E5E325E012172DF3F92096DB79B85",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-03-04",
+      "ValidTo": "2019-03-04",
+      "AuthorityKeyIdentifier": "cTg28gIxU0crbrplRqkQFVggBQk=",
+      "SubjectKeyIdentifier": "cTg28gIxU0crbrplRqkQFVggBQk=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "DigiCert",
+      "CertificateName": "GeoTrust Universal CA",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "DigiCert",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000145",
+      "ParentCCADBUniqueID": "A000021",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "A0459B9F63B22559F5FA5D4C6DB3F9F72FF19342033578F073BF1D1B46CBB912",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-03-04",
+      "ValidTo": "2029-03-04",
+      "AuthorityKeyIdentifier": "2rsuqrAMuIgmUXRcbQPTwNiPetY=",
+      "SubjectKeyIdentifier": "2rsuqrAMuIgmUXRcbQPTwNiPetY=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "DigiCert",
+      "CertificateName": "GeoTrust Universal CA 2",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "DigiCert",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000146",
+      "ParentCCADBUniqueID": "A000021",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "A0234F3BC8527CA5628EEC81AD5D69895DA5680DC91D1CB8477F33F878B95B0B",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-03-04",
+      "ValidTo": "2029-03-04",
+      "AuthorityKeyIdentifier": "dvNV4fqkNvvwn1xice089Ec4ECs=",
+      "SubjectKeyIdentifier": "dvNV4fqkNvvwn1xice089Ec4ECs=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "e-commerce monitoring GmbH",
+      "CertificateName": "A-CERT ADVANCED",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "e-commerce monitoring GmbH",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010481",
+      "ParentCCADBUniqueID": "A002557",
+      "Country": "Austria"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "2DC62C3F6C0CC9020BBA77E1C511511024B943EE598856DA5A22E222B7277A20",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-10-23",
+      "ValidTo": "2011-10-23",
+      "AuthorityKeyIdentifier": "N38+PplxYMok1JETedB0KbSoJNg=",
+      "SubjectKeyIdentifier": "N38+PplxYMok1JETedB0KbSoJNg=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GlobalSign nv-sa",
+      "CertificateName": "GlobalSign ObjectSign CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "GlobalSign Primary Object Publishing CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000579",
+      "ParentCCADBUniqueID": "A000582",
+      "Country": "Belgium"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Parent Cert Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "B1D28E9188A9A28A3856296F4A21AAB1E9A805AADCA03FF80C917A2D2A17BE8F",
+      "ParentSHA256Fingerprint": "8B91BB76B41427C6373D49590B32ED4C703CD8B98E11E1790C7935C278FD67DA",
+      "ValidFrom": "2004-01-22",
+      "ValidTo": "2022-01-27",
+      "AuthorityKeyIdentifier": "FVF5GnwMWfnazdjEOhOayXgtf00=",
+      "SubjectKeyIdentifier": "0lvzSyZLpbDnXf1Wf/bxLjhOU6A=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GlobalSign nv-sa",
+      "CertificateName": "GlobalSign ObjectSign CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "GlobalSign Primary Object Publishing CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000613",
+      "ParentCCADBUniqueID": "A000556",
+      "Country": "Belgium"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "614299AAEA670071EA113D2B977BEC4714B0CC8B2B54EFE6625D2690F512F7D6",
+      "ParentSHA256Fingerprint": "5B688FA3D8DFAE2177710AC0DFC5D94B10623AF05B1EC1DE173028A28C98E680",
+      "ValidFrom": "2004-01-22",
+      "ValidTo": "2017-01-27",
+      "AuthorityKeyIdentifier": "FVF5GnwMWfnazdjEOhOayXgtf00=",
+      "SubjectKeyIdentifier": "0lvzSyZLpbDnXf1Wf/bxLjhOU6A=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GlobalSign nv-sa",
+      "CertificateName": "GlobalSign PersonalSign Class 1 CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "GlobalSign Primary Class 1 CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000612",
+      "ParentCCADBUniqueID": "A000560",
+      "Country": "Belgium"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "969B06E642BDCE7C5E2CF18B2494E56F7A59B1C5966AB21017714FBD272CAFB2",
+      "ParentSHA256Fingerprint": "8439D15EB439BC112D1498040F670A4E8558E0A0C07C7E7E8ED4E2B33D27D406",
+      "ValidFrom": "2004-01-22",
+      "ValidTo": "2017-01-27",
+      "AuthorityKeyIdentifier": "/OBm9lo1metAHtK4HkO8mI4fisM=",
+      "SubjectKeyIdentifier": "D3Xu8SO9dULqt4lARr2S0nLrxeg=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GlobalSign nv-sa",
+      "CertificateName": "GlobalSign PersonalSign Class 2 CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "GlobalSign Primary Class 2 CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000611",
+      "ParentCCADBUniqueID": "A000561",
+      "Country": "Belgium"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "2960D917FCA880182787E0C541E2FA0A21E1C8535754C40427CC9FBE4819974C",
+      "ParentSHA256Fingerprint": "7DAF5AAE26CEA413A8E808FEA126DAA382E616186B0821F7774E5A2F527BEC5A",
+      "ValidFrom": "2004-01-22",
+      "ValidTo": "2017-01-27",
+      "AuthorityKeyIdentifier": "fOeysSzesadr6XYM4aP9TmzHufY=",
+      "SubjectKeyIdentifier": "bcQrwX2FEKD5ExYNVSsDujZMITE=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GlobalSign nv-sa",
+      "CertificateName": "GlobalSign PersonalSign Class 3 CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "GlobalSign Primary Class 3 CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000610",
+      "ParentCCADBUniqueID": "A000562",
+      "Country": "Belgium"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "29B0CCC09BF855B6F8523CE18E7D50E60BD32160E7830FC4F4F1D63161EEBC56",
+      "ParentSHA256Fingerprint": "6E36EFD26A6BEC62AD5E7A2E4B0A2A4D0311D064A38710FFF6D1AC0B47508B97",
+      "ValidFrom": "2004-01-22",
+      "ValidTo": "2017-01-27",
+      "AuthorityKeyIdentifier": "zDbMF7RFkS/tzzswSHf7tRSZvuM=",
+      "SubjectKeyIdentifier": "ZQjaS1oGdr2KP+DkTuh9yj+wxKY=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GlobalSign nv-sa",
+      "CertificateName": "Ubizen CA",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "GlobalSign RootSign Partners CA",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000576",
+      "ParentCCADBUniqueID": "A000514",
+      "Country": "Belgium"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Parent Cert Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "DAB0E91941D4FF12E8A048653D0E0979A792DF21A0618156139DDA4D669B172A",
+      "ParentSHA256Fingerprint": "20BBB89108079E0701D86B8A893A2A9546E698FECBB70A567A41253887E5724A",
+      "ValidFrom": "2004-08-06",
+      "ValidTo": "2022-08-06",
+      "AuthorityKeyIdentifier": "VoTstXGl52PY21EE1vrm8EhSSc4=",
+      "SubjectKeyIdentifier": "23x441HMl0Ht1lfZUn4QFI6tei0=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GoDaddy",
+      "CertificateName": "Go Daddy Class 2 Certification Authority",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "GoDaddy",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000152",
+      "ParentCCADBUniqueID": "A000028",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Included",
+      "ChromeStatus": "Removed",
+      "MicrosoftStatus": "Included",
+      "MozillaStatus": "Included",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "C3846BF24B9E93CA64274C0EC67C1ECC5E024FFCACD2D74019350E81FE546AE4",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-06-29",
+      "ValidTo": "2034-06-29",
+      "AuthorityKeyIdentifier": "0sSw0pHUTBFxs2HLPaH+3ahq1OM=",
+      "SubjectKeyIdentifier": "0sSw0pHUTBFxs2HLPaH+3ahq1OM=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "Server Authentication;Client Authentication;Secure Email",
+      "EVOIDsForRootCert": "2.23.140.1.1; 2.16.840.1.114413.1.7.23.3; 2.16.840.1.114414.1.7.23.3",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": true,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.godaddy.com/gdroot.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": false,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "GoDaddy",
+      "CertificateName": "Starfield Class 2 Certification Authority",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "GoDaddy",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000193",
+      "ParentCCADBUniqueID": "A000028",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Included",
+      "ChromeStatus": "Removed",
+      "MicrosoftStatus": "Included",
+      "MozillaStatus": "Included",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "1465FA205397B876FAA6F0A9958E5590E40FCC7FAA4FB7C2C8677521FB5FB658",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-06-29",
+      "ValidTo": "2034-06-29",
+      "AuthorityKeyIdentifier": "v1+30c7dH4b0W1Ws3NcQwg6piOc=",
+      "SubjectKeyIdentifier": "v1+30c7dH4b0W1Ws3NcQwg6piOc=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "Server Authentication;Client Authentication;Secure Email",
+      "EVOIDsForRootCert": "2.23.140.1.1; 2.16.840.1.114414.1.7.23.3; 2.16.840.1.114413.1.7.23.3",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": true,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"https://certificates.godaddy.com/sfroot.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": false,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Government of Taiwan, Government Root Certification Authority (GRCA)",
+      "CertificateName": "組織及團體憑證管理中心",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "Government Root Certification Authority",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A003937",
+      "ParentCCADBUniqueID": "A000206",
+      "Country": "China"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "52EF981BA85BC054C597F09C6CACB134B7DF97D61FEAEE2517F4DBD82BF8ECCA",
+      "ParentSHA256Fingerprint": "7600295EEFE85B9E1FD624DB76062AAAAE59818A54D2774CD4C0B2C01131E1B3",
+      "ValidFrom": "2004-03-11",
+      "ValidTo": "2024-03-11",
+      "AuthorityKeyIdentifier": "zMzvzClgpDuxkrY8+jJij6wlFTs=",
+      "SubjectKeyIdentifier": "ZH4/6AfvtyLnAnJjHyhAbmPhzKY=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Halcom D.D.",
+      "CertificateName": "Halcom CA PO 2",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "HALCOM d.d.",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002468",
+      "ParentCCADBUniqueID": "A002576",
+      "Country": "Slovenia"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "FE7114D07A147759891FF37B4F53EB43568296BC3BF89BC12CAFB186985EF28D",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-02-07",
+      "ValidTo": "2019-02-07",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "SK9XZr/SwAI=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Korea Information Security Agency (KISA)",
+      "CertificateName": "KISA RootCA 3",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Korea Information Security Agency (KISA)",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010480",
+      "ParentCCADBUniqueID": "A000250",
+      "Country": "Republic of Korea (South Korea)"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "8FDD298D1C93B22BFC42AAB1C3A15F0D01832CA0A1AEF28D5680F06E6C7FD4EF",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-19",
+      "ValidTo": "2014-11-19",
+      "AuthorityKeyIdentifier": "j4Hw2qbNdDy+ZvQVa0ak/gYozKo=",
+      "SubjectKeyIdentifier": "j4Hw2qbNdDy+ZvQVa0ak/gYozKo=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "AAA Certificate Services",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000069",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Included",
+      "ChromeStatus": "Removed",
+      "MicrosoftStatus": "Included",
+      "MozillaStatus": "Included",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "Server Authentication;Client Authentication;Code Signing;Secure Email;Encrypting File System;Time Stamping;IP Security Tunnel Termination;IP Security User",
+      "EVOIDsForRootCert": "2.23.140.1.3; 1.3.6.1.4.1.6449.1.2.1.5.1",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.comodoca.com/AAACertificateServices.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": true,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "Secure Certificate Services",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000181",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Not Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "BD81CE3B4F6591D11A67B5FC7A47FDEF25521BF9AA4E18B9E3DF2E34A7803BE8",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "PNiTiMLAggnMAZkGkyDpnnAJY08=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.comodoca.com/SecureCertificateServices.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "Trusted Certificate Services",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Sectigo",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000218",
+      "ParentCCADBUniqueID": "A000016",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Not Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Not Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "3F06E55681D496F5BE169EB5389F9F2B8FF61E1708DF6881724849CD5D27CB69",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "xXtYve3aJWnS91kWqLMywHsnW/Q=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.comodoca.com/TrustedCertificateServices.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "COMODO ECC Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AAA Certificate Services",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A006859",
+      "ParentCCADBUniqueID": "A000069",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Trusted",
+      "ChromeStatus": "Trusted",
+      "MicrosoftStatus": "Trusted",
+      "MozillaStatus": "Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "53612513970B9F264CA4BCC3BFD84DBC5FE774E3C6295B3EBB99EB9D74069E2A",
+      "ParentSHA256Fingerprint": "D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
+      "SubjectKeyIdentifier": "dXGnGUgZvJ2d6kFH35TESHeZ03k=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping"
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": true
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.comodoca.com/COMODOECCCertificationAuthority.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": true,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "COMODO RSA Certification Authority",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AAA Certificate Services",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A006858",
+      "ParentCCADBUniqueID": "A000069",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Trusted",
+      "ChromeStatus": "Trusted",
+      "MicrosoftStatus": "Trusted",
+      "MozillaStatus": "Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Not Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "38392F17CE7B682C198D29C6E71D2740964A2074C8D2558E6CFF64C27823F129",
+      "ParentSHA256Fingerprint": "D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
+      "SubjectKeyIdentifier": "u69+Aj36pvE8hI6t7jiY7NkyMtQ=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": "Client Authentication;Code Signing;Encrypting File System;IP Security Tunnel Termination;IP Security User;Secure Email;Server Authentication;Time Stamping"
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": true
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.comodoca.com/COMODORSACertificationAuthority.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": true,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "UTN-USERFirst-Client Authentication and Email",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AAA Certificate Services",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A001847",
+      "ParentCCADBUniqueID": "A000069",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "565C82702B5EC63202754D4F4B76CC3BAE32A4C9146ED3BECD73A404FFAD4CDE",
+      "ParentSHA256Fingerprint": "D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
+      "SubjectKeyIdentifier": "iYJnfcSdJnAAS7RQSHzePa4Ebn0=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.usertrust.com/UTN-USERFirst-ClientAuthenticationandEmail.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Sectigo",
+      "CertificateName": "UTN-USERFirst-Client Authentication and Email",
+      "CertificateRecordType": "Intermediate Certificate",
+      "ParentCertificateName": "AAA Certificate Services",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A004585",
+      "ParentCCADBUniqueID": "A000069",
+      "Country": "United Kingdom"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Trusted",
+      "ChromeStatus": "Not Trusted",
+      "MicrosoftStatus": "Not Trusted",
+      "MozillaStatus": "Not Trusted",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": "Revoked"
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "14E384649AA401F1D1CABD5FA3D08ABE82F14B7DAE6C5615B1CD7DD41E9750E3",
+      "ParentSHA256Fingerprint": "D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2028-12-31",
+      "AuthorityKeyIdentifier": "oBEKIz6W8Qfs4q8p74Klf9AwpLQ=",
+      "SubjectKeyIdentifier": "iYJnfcSdJnAAS7RQSHzePa4Ebn0=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.usertrust.com/UTN-USERFirst-ClientAuthenticationandEmail.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Serasa S.A.",
+      "CertificateName": "Serasa Certificate Authority I",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Serasa S.A.",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010485",
+      "ParentCCADBUniqueID": "A010215",
+      "Country": "Brazil"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "0A3B474D9032A10E6E6CD8BF0A873E60657ECF326E7723AEFCD58A1A242C3326",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-26",
+      "ValidTo": "2024-11-21",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "+DjuXG7tq5agRes2D9zZqzoxWP0=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Serasa S.A.",
+      "CertificateName": "Serasa Certificate Authority II",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Serasa S.A.",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010486",
+      "ParentCCADBUniqueID": "A010215",
+      "Country": "Brazil"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "FFCEF2224E29B0B36EC8314E686822F3AC0F1C5E0C2D5C0EB2484CE7E2540FD0",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-26",
+      "ValidTo": "2024-11-21",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "nuyZEABJa8yKP9tvBuXKFBhyk4M=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Serasa S.A.",
+      "CertificateName": "Serasa Certificate Authority III",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Serasa S.A.",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010487",
+      "ParentCCADBUniqueID": "A010215",
+      "Country": "Brazil"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "E5BDA820E5CE15BFD07BA11FFB1C7C8A5910CE1B90175C34308BC2500453CCDC",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-26",
+      "ValidTo": "2024-11-21",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "RsJ4q1Tg+GgnOd9Cs/NUwwZ9JqE=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "Shanghai Electronic Certification Authority Co., Ltd.",
+      "CertificateName": "UCA Root",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "Shanghai Electronic Certification Authority Co., Ltd.",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A002471",
+      "ParentCCADBUniqueID": "A000261",
+      "Country": "China"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Disabled",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Disabled; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "93E65EC762F055DC718A332582C41A04430D72E3CB87E8B897B67516F0D1AA39",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-01-01",
+      "ValidTo": "2029-12-31",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "2x8182tM/0IxZJvNu1oeHUgQt+4=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "SSL.com",
+      "CertificateName": "XRamp Global Certification Authority",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "SSL.com",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A000248",
+      "ParentCCADBUniqueID": "A002038",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Included",
+      "ChromeStatus": "Removed",
+      "MicrosoftStatus": "Included",
+      "MozillaStatus": "Removed",
+      "StatusOfRootCert": "Apple: Included; Google Chrome: Removed; Microsoft: Included; Mozilla: Removed"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "CECDDC905099D8DADFC5B1D209B737CBE2C18CFB2C10C0FF0BCF0D3286FC1AA2",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-11-01",
+      "ValidTo": "2035-01-01",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "xk+iPQZjhAmczmLkBKyNXLXpths=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "Server Authentication;Client Authentication;Secure Email;Time Stamping",
+      "EVOIDsForRootCert": "2.23.140.1.1; 2.16.840.1.114404.1.1.2.4.1",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": true,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": true,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "[\"http://crl.vikingcloud.com/XGCA.crl\"]",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": true,
+      "TLSEVCapable": true,
+      "CodeSigningCapable": false,
+      "SMIMECapable": true
+    }
+  },
+  {
+    "CertificateInformation": {
+      "CAOwner": "U.S. Federal Public Key Infrastructure (US FPKI)",
+      "CertificateName": "Common Policy",
+      "CertificateRecordType": "Root Certificate",
+      "ParentCertificateName": "U.S. Federal Public Key Infrastructure (US FPKI)",
+      "SubordinateCAOwner": "",
+      "CCADBUniqueID": "A010477",
+      "ParentCCADBUniqueID": "A000268",
+      "Country": "United States of America"
+    },
+    "RootStoreStatus": {
+      "AppleStatus": "Not Included",
+      "ChromeStatus": "Not Included",
+      "MicrosoftStatus": "Removed",
+      "MozillaStatus": "Not Yet Included",
+      "StatusOfRootCert": "Apple: Not Included; Google Chrome: Not Included; Microsoft: Removed; Mozilla: Not Yet Included"
+    },
+    "RevocationInformation": {
+      "RevocationStatus": ""
+    },
+    "CertificateData": {
+      "SHA256Fingerprint": "6E5E93AE867FD3E3E78304E054D1A6AEAED0295D58C0E3FC4C9FFE310A3488CC",
+      "ParentSHA256Fingerprint": "",
+      "ValidFrom": "2004-10-06",
+      "ValidTo": "2010-10-06",
+      "AuthorityKeyIdentifier": "",
+      "SubjectKeyIdentifier": "HixL+exmph6SX4d5A+3VwpW3lYM=",
+      "TechnicallyConstrained": false
+    },
+    "AdditionalCertificateData": {
+      "TrustBitsForRootCert": "",
+      "EVOIDsForRootCert": "",
+      "DerivedTrustBits": ""
+    },
+    "TrustInformation": {
+      "AppleEVEnabled": false,
+      "ExtendedValidationcppOIDs": "",
+      "MicrosoftEVSSLEnabled": false,
+      "GoogleChromeEVEnabled": false,
+      "EVSSLCapable": false
+    },
+    "PertainingToCertificatesIssued": {
+      "JSONArrayOfAllFullCRLURLs": "",
+      "JSONArrayOfPartitionedCRLs": "",
+      "DVACMEDirectoryURLs": "",
+      "OVACMEDirectoryURLs": "",
+      "EVACMEDirectoryURLs": "",
+      "IVACMEDirectoryURLs": ""
+    },
+    "Capabilities": {
+      "TLSCapable": false,
+      "TLSEVCapable": false,
+      "CodeSigningCapable": false,
+      "SMIMECapable": false
+    }
+  }
+]
